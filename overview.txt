@@ -1,0 +1,1 @@
+This is a data analytics project on road traffic accidents to draw inferences and use these insights in minimizing the rate of accidents. 
